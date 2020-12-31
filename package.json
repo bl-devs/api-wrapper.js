@@ -1,0 +1,29 @@
+{
+  "name": "botlista-wrapper",
+  "version": "1.0.0",
+  "description": "A botlista.pl api wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleks-1123/botlista-wrapper.git"
+  },
+  "keywords": [
+    "botlista",
+    "wrapper",
+    "javascript",
+    "bot",
+    "list"
+  ],
+  "author": "Aleks1123",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aleks-1123/botlista-wrapper/issues"
+  },
+  "homepage": "https://github.com/Aleks-1123/botlista-wrapper#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
