@@ -6,7 +6,7 @@ let fetch = require("node-fetch");
  */
 let getBot = async (botID) => {
     let req = await fetch(`https://botlista.pl/api/bots/${botID}`);
-    await req.json();
+    req = await req.json()
     if (req.status === 404) return { status: 404, message: "Not Found" };
     req = req[0];
     if (!req) return { status: 404, message: "Not Found" };
