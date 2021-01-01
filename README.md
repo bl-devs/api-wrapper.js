@@ -6,7 +6,7 @@
 
 > A botlista.pl api wrapper
 
-### 🏠 [Homepage](https://github.com/Aleks-1123/botlista-wrapper#readme)
+### 🏠 [Homepage](https://github.com/bl-devs/api-wrapper.js#readme)
 
 ## Install
 
