@@ -1,4 +1,4 @@
-# Welcome to botlista-wrappers 👋
+# Welcome to botlista-api-wrappers.js 👋
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/bl-devs/api-wrappers.js#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/bl-devs/api-wrappers.js/graphs/commit-activity)
